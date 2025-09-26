@@ -1,0 +1,2 @@
+{"qid": "q1", "query": "Summarize recall vs latency trends", "gold_answer": "baseline lowest recall, rerank+compress best balance", "gold_source_ids": ["doc1", "img1"]}
+{"qid": "q2", "query": "Explain average context length differences", "gold_answer": "context length reduced with compression", "gold_source_ids": ["doc2", "img2"]}
